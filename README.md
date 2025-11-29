@@ -28,16 +28,6 @@ To identify key customer groups, spending trends, and product/category performan
 - Created Age Groups (18–25, 26–35, 36–45, etc.)
 
 # Key Tasks & Insights
-Task	Task Type	Purpose	Insight Summary
-
-
-
-
-
-
-
-
-
 <table>
   <tr>
     <th>Task</th>
