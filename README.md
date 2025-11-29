@@ -31,7 +31,7 @@ To identify key customer groups, spending trends, and product/category performan
 <table>
   <tr>
     <th>Task</th>
-    <th>Type</th>
+    <th>Chart Type</th>
     <th>Purpose</th>
     <th>Insight Summary</th>
   </tr>
@@ -73,7 +73,7 @@ To identify key customer groups, spending trends, and product/category performan
   </tr>
     <tr>
     <td>8</td>
-    <td>tacked Area</td>
+    <td>Stacked Area</td>
     <td>Monthly revenue trends</td>
     <td>Peaks in January, May, October</td>
   </tr>
@@ -105,15 +105,15 @@ To identify key customer groups, spending trends, and product/category performan
 
 # Strategic Insights
 
-- Target Age Group: 26–45 age group drives maximum revenue and orders
+- Target Age Group: 26–45 age group drives maximum revenue and orders.
 
-- Inventory Planning: Stock up for peaks in January, May, October
+- Inventory Planning: Stock up for peaks in January, May, October.
 
-- Category Strategy: All categories perform similarly → opportunity for bundling & cross-selling
+- Category Strategy: All categories perform similarly → opportunity for bundling & cross-selling.
 
-- Regional Marketing: Run custom campaigns for North & West
+- Regional Marketing: Run custom campaigns for North & West.
 
-- Revenue Potential: Consistent spending across age groups
+- Revenue Potential: Consistent spending across age groups.
 
 
 # Project Structure
